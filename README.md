@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Tulece</h1>
 <h3 align="center">42 Student @ 42Perpignan</h3>
 
-- 🌱 I’m currently learning **C, C++**
+- 🌱 I’m currently learning **C and C++.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tulece](https://github.com/Tulece)
 
 - 📫 How to reach me **anporced@student.42perpignan.fr**
 
 <p align="center">
-  <a href="https://github.com/Coday-meric/badge42">
-    <img src="https://badge42.coday.fr/api/v2/clvc5qvk41947001p4ow4dtrm8/stats?cursusId=21&coalitionId=319" alt="anporced's 42 stats">
-  </a>
+  <a href="https://github.com/oakoudad/badge42">
+  <img src="https://badge.mediaplus.ma/darkblue/anporced" alt="anporced's 42 stats" />
+</a>
+
 </p>
 
 <p align="center">
@@ -19,6 +20,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:anporced@student.42perpignan.fr">
+    <img src="https://www.iconfinder.com/data/icons/social-media-2210/24/Mail-512.png" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="YOUR_DISCORD_LINK_HERE">
+    <img src="https://www.iconfinder.com/data/icons/social-media-2210/24/Discord-512.png" alt="Discord" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,3 +43,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+
+
+
+![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
