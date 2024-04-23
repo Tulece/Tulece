@@ -18,15 +18,18 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE2a244b3hqeDAxcGdjMmlsYW04cmNpbmtnM29hZDVpa2JmcXp1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12CSpwCtoy1Vfy/giphy.gif" alt="Description du GIF" width="80%">
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:anporced@student.42perpignan.fr">
-    <img src="https://www.iconfinder.com/data/icons/social-media-2210/24/Mail-512.png" alt="Email" width="40" height="40"/>
-  </a>
-  <a href="YOUR_DISCORD_LINK_HERE">
-    <img src="https://www.iconfinder.com/data/icons/social-media-2210/24/Discord-512.png" alt="Discord" width="40" height="40"/>
-  </a>
-</p>
+## Connect with me 📞
+<div align="center">
+<a href="https://github.com/JayZ66" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/jézabel-guérin" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+<a href="mailto:jezaguerin.pro@gmail.com">
+<img src=https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;"/>
+</a>
+</div>  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
