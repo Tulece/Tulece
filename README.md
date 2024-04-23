@@ -1,6 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/Coday-meric/badge42">
+    <img src="https://badge42.coday.fr/api/v2/clvc5qvk41947001p4ow4dtrm8/stats?cursusId=21&coalitionId=319" alt="anporced's 42 stats">
+  </a>
+</p>
 
-### ![mariotrobo](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE2a244b3hqeDAxcGdjMmlsYW04cmNpbmtnM29hZDVpa2JmcXp1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12CSpwCtoy1Vfy/giphy.gif" alt="Description du GIF" width="80%">
+</p>
 
 <!--
 **Tulece/Tulece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,8 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### [![anporced's 42 stats](https://badge42.coday.fr/api/v2/clvc5qvk41947001p4ow4dtrm8/stats?cursusId=21&coalitionId=319)](https://github.com/Coday-meric/badge42)
