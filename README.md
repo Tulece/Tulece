@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tulece</h1>
-<h3 align="center">a 42 Student @ 42Perpignan</h3>
+<h3 align="center">42 Student @ 42Perpignan</h3>
 
 - 🌱 I’m currently learning **C, C++**
 
