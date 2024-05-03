@@ -18,6 +18,10 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXE2a244b3hqeDAxcGdjMmlsYW04cmNpbmtnM29hZDVpa2JmcXp1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12CSpwCtoy1Vfy/giphy.gif" alt="Description du GIF" width="80%">
 </p>
 
+## Visites de Profil
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Tulece.Tulece)
+
 ## Connect with me 📞
 <div align="center">
 <a href="https://github.com/Tulece" target="_blank">
